@@ -1,6 +1,15 @@
+#titulo-id {
+    color: darkorchid;
+}
+
+.cor-roxa {
+    color: crimson;
+}
+
+
 h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: aqua;
+    color: red;
     font-size: 36px;
 }
 p {
@@ -8,8 +17,19 @@ p {
     font-size: 20px;
     line-height: 36px;
 }
+ 
+h2 {
+    color: darkturquoise;
+}
 
-
-.fundo_ciano {
+.fundo-ciano {
     background: darkcyan;
+}
+.fonte-frande {
+    font-size: 50px;
+}
+
+#titulo-principal {
+    background: black;
+    color: white;
 }
