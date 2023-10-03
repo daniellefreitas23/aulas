@@ -6,4 +6,9 @@
 
     /* shorthand = varios valores na mesma propriedade*/
     border: 2px solid #f00;
+
+    width: 200px;
 }  
+.img_width {
+    width: 400px;
+}
